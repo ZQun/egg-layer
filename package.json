@@ -1,0 +1,12 @@
+{
+    "name": "push.fun",
+    "version": "1.0.0",
+    "description": "this is a push fun",
+    "dependencies": {
+        "egg": "^2.20.2",
+        "egg-cors": "^2.2.3"
+    },
+    "main": "index.js",
+    "types": "index.d.ts",
+    "egg": {}
+}
